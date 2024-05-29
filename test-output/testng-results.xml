@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="9" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-29T03:08:47 IST" name="Suite" finished-at="2024-05-29T03:09:38 IST" duration-ms="51448">
+    <groups>
+    </groups>
+    <test started-at="2024-05-29T03:08:47 IST" name="Test" finished-at="2024-05-29T03:09:38 IST" duration-ms="51448">
+      <class name="testcases.AddingToCartTestCase">
+        <test-method is-config="true" signature="launchBrowserAndUrl()[pri:0, instance:testcases.AddingToCartTestCase@2d7275fc]" started-at="2024-05-29T03:09:26 IST" name="launchBrowserAndUrl" finished-at="2024-05-29T03:09:32 IST" duration-ms="6373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndUrl -->
+        <test-method signature="VerifyProductAddingToCart()[pri:0, instance:testcases.AddingToCartTestCase@2d7275fc]" started-at="2024-05-29T03:09:32 IST" name="VerifyProductAddingToCart" finished-at="2024-05-29T03:09:38 IST" duration-ms="5717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProductAddingToCart -->
+      </class> <!-- testcases.AddingToCartTestCase -->
+      <class name="testcases.VeriyLoginTestCases">
+        <test-method is-config="true" signature="launchBrowserAndUrl()[pri:0, instance:testcases.VeriyLoginTestCases@72d1ad2e]" started-at="2024-05-29T03:09:07 IST" name="launchBrowserAndUrl" finished-at="2024-05-29T03:09:12 IST" duration-ms="5640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndUrl -->
+        <test-method signature="verifyLoginithInValidData()[pri:0, instance:testcases.VeriyLoginTestCases@72d1ad2e]" started-at="2024-05-29T03:09:12 IST" name="verifyLoginithInValidData" finished-at="2024-05-29T03:09:15 IST" duration-ms="2893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginithInValidData -->
+        <test-method is-config="true" signature="launchBrowserAndUrl()[pri:0, instance:testcases.VeriyLoginTestCases@72d1ad2e]" started-at="2024-05-29T03:09:15 IST" name="launchBrowserAndUrl" finished-at="2024-05-29T03:09:22 IST" duration-ms="6943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndUrl -->
+        <test-method signature="verifyLoginithValidData()[pri:0, instance:testcases.VeriyLoginTestCases@72d1ad2e]" started-at="2024-05-29T03:09:22 IST" name="verifyLoginithValidData" finished-at="2024-05-29T03:09:26 IST" duration-ms="3757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginithValidData -->
+      </class> <!-- testcases.VeriyLoginTestCases -->
+      <class name="testcases.VerifyRegisterationTestCases">
+        <test-method is-config="true" signature="ExtentReport()[pri:0, instance:testcases.VerifyRegisterationTestCases@dd8ba08]" started-at="2024-05-29T03:08:45 IST" name="ExtentReport" finished-at="2024-05-29T03:08:47 IST" duration-ms="1986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtentReport -->
+        <test-method is-config="true" signature="launchBrowserAndUrl()[pri:0, instance:testcases.VerifyRegisterationTestCases@dd8ba08]" started-at="2024-05-29T03:08:47 IST" name="launchBrowserAndUrl" finished-at="2024-05-29T03:08:54 IST" duration-ms="7695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndUrl -->
+        <test-method signature="verifyRegisterationWithInValidData()[pri:0, instance:testcases.VerifyRegisterationTestCases@dd8ba08]" started-at="2024-05-29T03:08:54 IST" name="verifyRegisterationWithInValidData" finished-at="2024-05-29T03:08:56 IST" duration-ms="2008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterationWithInValidData -->
+        <test-method is-config="true" signature="launchBrowserAndUrl()[pri:0, instance:testcases.VerifyRegisterationTestCases@dd8ba08]" started-at="2024-05-29T03:08:56 IST" name="launchBrowserAndUrl" finished-at="2024-05-29T03:09:02 IST" duration-ms="5656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowserAndUrl -->
+        <test-method signature="verifyRegisterationWithValidData()[pri:0, instance:testcases.VerifyRegisterationTestCases@dd8ba08]" started-at="2024-05-29T03:09:02 IST" name="verifyRegisterationWithValidData" finished-at="2024-05-29T03:09:07 IST" duration-ms="4688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterationWithValidData -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:testcases.VerifyRegisterationTestCases@dd8ba08]" started-at="2024-05-29T03:09:38 IST" name="endReport" finished-at="2024-05-29T03:09:39 IST" duration-ms="775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- testcases.VerifyRegisterationTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
